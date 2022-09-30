@@ -1,4 +1,4 @@
-# Trabalho de Frameworks Utilizando Vue
+# Trabalho de Frameworks utilizando Vue
 
 ## Project setup
 ```
