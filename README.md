@@ -1,4 +1,4 @@
-# pizzometro
+# Trabalho de Frameworks com Vue
 
 ## Project setup
 ```
